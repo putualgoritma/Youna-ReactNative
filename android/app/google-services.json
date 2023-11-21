@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028607100595",
+    "project_id": "chatreactnative-e8d9f",
+    "storage_bucket": "chatreactnative-e8d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028607100595:android:76b4ca2cf46ae0b2a112c6",
+        "android_client_info": {
+          "package_name": "com.youna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomyWcAH0WeBypzGlnxAljZA4WmPlAQlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
